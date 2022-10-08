@@ -1,0 +1,72 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+@media only screen and (min-width: 768px){
+.tab1{
+	background-color: grey;
+
+}
+
+a:link {
+  color:black;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+
+.div1{
+	margin-left:20px;
+	width:100%;
+	height:auto;
+}
+
+.div2{
+	margin-top: 0px;
+	margin-left:20px;
+	width:66.3%;
+	height:500px;
+	float:left;
+	/*border:5px solid red;*/
+}
+
+.div3{
+	margin-top:50px;
+	margin-bottom: 20px;
+	margin-left:1050px;
+	border:2px solid black;
+	width:26%;
+	height:500px;
+	
+}
+
+.div1 h2{
+	background-color:#D3D3D3;
+	/*border: 2px solid black;*/
+}
+
+.div2 .tab1{
+	height: 100px;
+	background-color: #D3D3D3;
+	/*border: 2px solid black;*/
+}
+.tab4{
+	height:80px;
+	/*border: 2px solid black;*/
+}
+.cls{
+	color:white;
+	height:40px;
+}
+.div4{
+	margin-top: 40px;
+	/*border: 2px solid black;*/
+}
+.tab2{
+	height: 40px;
+}
+
+}
